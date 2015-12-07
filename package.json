@@ -1,0 +1,12 @@
+{
+  "name": "Dealer",
+  "version": "1.0.0",
+  "description": "A dealer app",
+  "main": "app.js",
+  "author": "Brian Whicheloe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^4.2.9"
+  }
+}
